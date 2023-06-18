@@ -1,0 +1,22 @@
+{
+  "app_name": "Notes App",
+  "login_title": "Welcome back...",
+  "login_sub_title": "Enter email & password",
+  "email": "Email",
+  "password": "Password",
+  "login": "Login",
+  "email_error": "Enter email",
+  "password_error": "Enter password",
+  "error_data": "Enter required data!",
+  "home": "Home",
+  "register": "Register",
+  "register_title": "Create new account...",
+  "register_sub_title": "Enter new account details",
+  "no_account": "Don't have account?",
+  "create_now": "Create Now!",
+  "create_note": "Create Note",
+  "update_note": "Update Note",
+  "title": "Title",
+  "info": "Info",
+  "save": "Save"
+}
