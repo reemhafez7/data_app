@@ -184,7 +184,6 @@ class _RegisterScreenState extends State<RegisterScreen> {
                   borderSide: BorderSide(
                       color: Colors.grey.shade400,
                       width: 2,
-                      strokeAlign: StrokeAlign.center,
                       style: BorderStyle.solid),
                 ),
                 focusedBorder: OutlineInputBorder(
@@ -238,7 +237,6 @@ class _RegisterScreenState extends State<RegisterScreen> {
                   borderSide: BorderSide(
                       color: Colors.grey.shade400,
                       width: 2,
-                      strokeAlign: StrokeAlign.center,
                       style: BorderStyle.solid),
                 ),
                 focusedBorder: OutlineInputBorder(

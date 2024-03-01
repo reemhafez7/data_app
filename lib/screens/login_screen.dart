@@ -196,7 +196,6 @@ class _LoginScreenState extends State<LoginScreen> {
                   borderSide: BorderSide(
                       color: Colors.grey.shade400,
                       width: 2,
-                      strokeAlign: StrokeAlign.center,
                       style: BorderStyle.solid),
                 ),
                 focusedBorder: OutlineInputBorder(
@@ -250,7 +249,6 @@ class _LoginScreenState extends State<LoginScreen> {
                   borderSide: BorderSide(
                       color: Colors.grey.shade400,
                       width: 2,
-                      strokeAlign: StrokeAlign.center,
                       style: BorderStyle.solid),
                 ),
                 focusedBorder: OutlineInputBorder(
